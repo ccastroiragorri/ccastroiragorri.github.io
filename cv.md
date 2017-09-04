@@ -1,3 +1,6 @@
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Conferences](conf.md)    
+
+
 # Short Bio
 
 Carlos Castro has a BA and MA in economics from Universidad de los Andes in Bogota.  
@@ -33,5 +36,4 @@ collaborated with the Credit Portfolio Modeling department at Dexia sa, in Bruss
 2. Research Assistant grants, Colciencias, 2011 (1), 2015 (2).
 3. Research Fund (FIUR), Universidad del Rosario, 2011, 2013, COP 20´000,000
 4. MAP-BID, Inter-American Development Bank, 2012-2013, €20,000
-    
     
