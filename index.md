@@ -8,8 +8,8 @@ I am associate professor at the Faculty of Economics at Universidad del Rosario 
 
 Research interests: Financial Econometrics, Quantitative Risk Management, Empirical Finance. 
 
-Personal email: [ccastroiragorri@gmail.com] 
+Personal email: ccastroiragorri@gmail.com 
 
-Institutional email: [carlos.castro@urosario.edu.co] 
+Institutional email: carlos.castro@urosario.edu.co 
 
 ![Me](fotoCarlos.jpg)
