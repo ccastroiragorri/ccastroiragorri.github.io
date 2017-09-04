@@ -2,7 +2,7 @@
 
 # Finance
 
-I started working in Finance because my PhD scholarship at [ECARES]( http://ecares.ulb.ac.be/) was funded by a Belgian banks interested in econometrics of portfolio credit risk. For that reason most of my doctoral coursework was in mathematical finance and statistics, latter on I learned financial economics while visiting [INSEAD]( https://www.insead.edu/).
+I started working in Finance because my PhD scholarship at [ECARES]( http://ecares.ulb.ac.be/) was funded by a Belgian bank interested in econometrics of portfolio credit risk. For that reason most of my doctoral coursework was in mathematical finance and statistics, latter on I learned financial economics while visiting [INSEAD]( https://www.insead.edu/).
 
 Most of my research is based on finding new ways to approach a problem or current topic in finance from a statistical point of view, most of the time this implies coding and an illustrative application.
 
