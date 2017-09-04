@@ -11,6 +11,4 @@ Research interests: Financial Econometrics, Quantitative Risk Management, Empiri
 Contact information: [ccastroiragorri@gmail.com](ccastroiragorri@gmail.com)
                      [carlos.castro@urosario.edu.co](carlos.castro@urosario.edu.co)
 
-[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Conferences](conf.md)
-
 ![Me](fotoCarlos.jpg)
