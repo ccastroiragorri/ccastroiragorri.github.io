@@ -1,3 +1,5 @@
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Conferences](conf.md)    
+
 # Carlos Castro Iragorri
 
 ## Welcome to my homepage
