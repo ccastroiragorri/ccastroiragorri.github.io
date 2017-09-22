@@ -2,6 +2,6 @@
 
 # Jupyter Notebooks
 
-* [Synthetic portfolio / matching for event studies in finance](SyntheticPortfolioExample.ipynb)
+* [Synthetic portfolio / matching for event studies in finance](SyntheticPortfolioExample.pdf)
 
 * [Term structure models](term.md)
