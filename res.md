@@ -15,7 +15,7 @@
 
 ## Visiting Positions, talks and conferences.
 
-* Uconn Business School, Storrs, November, 2017.
+* [Uconn Business School, Storrs, November, 2017.](presentation-synthetic-portfolio.pdf)
 * NYU Stern FinTech Conference 2017, New York City, November, 2017 (attending).
 * JupyterCon, New York City, August 2017 (attending).
 * Visiting Scholar, Uconn Business School, Storrs, July-December, 2017.
