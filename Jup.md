@@ -2,6 +2,6 @@
 
 # Jupyter Notebooks
 
-* [Synthetic portfolio / matching for event studies in finance](https://nbviewer.jupyter.org/github/ccastroiragorri/ccastroiragorri.github.io/blob/master/EventStudyCode_V14_One_Event_M&A-Microsoft-Yahoo_Data.ipynb)
+* [Synthetic portfolio / matching for event studies in finance](https://nbviewer.jupyter.org/github/ccastroiragorri/ccastroiragorri.github.io/blob/master/SyntheticPortfolio_M&A_MSFT_YHOO.ipynb)
 
 * [Term structure models](term.md)
