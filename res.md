@@ -62,7 +62,8 @@
 
 ### Working Papers
 
-*	Measuring the effectiveness of volatility call auctions, January 2017, (with D. Agudelo and S. Preciado).
+*	[Does the market model provide a good counterfactual for event studies in finance?, December 2017](synthetic-portfolio-submission.pdf)
+* Measuring the effectiveness of volatility call auctions, January 2017, (with D. Agudelo and S. Preciado).
 *	Racial and spatial interaction for neighborhood dynamics in Chicago, Facultad de Economía, Documento de trabajo. 189, June 2016, pp. 30 (with A. Badel and C. Rodriguez).
 *	Network externalities across financial institutions, Facultad de Economía, Documento de trabajo. 184, February 2016, pp. 23 (with J.S. Ordoñez and S. Preciado).
 *	Stock return co-movements and integration within the Latin American integrated market, April, 2014, (with N.J. Marin), Universidad del Rosario, Faculty of Economics, working paper, no. 154.
