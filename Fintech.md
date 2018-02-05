@@ -19,6 +19,7 @@ Given the strong interest in blockchain, I decided to learn about it (for person
 *  [ICO’s and important economic questions raised at the end (by Kasireddy, 2017).]( https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
 *  [Challenges in the blockchain technology (by Kasireddy, 2017).]( https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a)
 *	[Cryptoeconomics (by Kordez, 2017).](https://medium.com/@primoz.kordez/the-economics-of-blockchain-protocols-18bca548e596)
+* [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies (by Bonneau et al. 2015)](http://ieeexplore.ieee.org/document/7163021/)
 *  [Institutional cryptoeconomics (by RMIT Blockchain Innovation Hub, 2017).](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
 
 
