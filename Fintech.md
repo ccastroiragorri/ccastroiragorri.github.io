@@ -12,7 +12,8 @@
 ## Blockchain
 
 Given the strong interest in blockchain, I decided to learn about it (for personal and academic reasons).  Here are a couple of resources:
-*	[Complete, simple and visual explanation of blockchain (by A. Lewis, 2015).](https://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
+* [Do you need a blockchain? (by Wüst and Gervais, 2017)](http://doyouneedablockchain.com/)	
+* [Complete, simple and visual explanation of blockchain (by A. Lewis, 2015).](https://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
 *	[For a blockchain implementation on python there is a nice Jupyther notebook (by  E. Munsing,  2017).](http://ecomunsing.com/build-your-own-blockchain)
 *	[Regulatory landscape (by, Coin Center, 2017).](https://coincenter.org/entry/regulatory-update-at-devcon-3)
 *  [ICO’s and important economic questions raised at the end (by Kasireddy, 2017).]( https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
@@ -25,3 +26,4 @@ Given the strong interest in blockchain, I decided to learn about it (for person
 
 [The Linux Foundation initiative on Blockchain technology.](https://www.hyperledger.org/)
 * [An Introduction to Hyperledger Technologies](https://training.linuxfoundation.org/linux-courses/system-administration-training/blockchain-for-business-an-introduction-to-hyperledger?utm_source=hyperledger-website&utm_medium=banner&utm_campaign=hlmooc2017)
+* [Hyperledger Composer: Build Blockchain applications and business networks your way](https://hyperledger.github.io/composer/)
