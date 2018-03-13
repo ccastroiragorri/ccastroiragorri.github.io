@@ -1,4 +1,4 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Fintech](Fintech.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)      
 
 # Research
 
@@ -15,7 +15,7 @@
 
 ## Visiting Positions, talks and conferences.
 
-* [Uconn Business School, Storrs, November, 2017.](presentation-synthetic-portfolio.pdf)
+* Uconn Business School, Storrs, November, 2017.
 * NYU Stern FinTech Conference 2017, New York City, November, 2017 (attending).
 * JupyterCon, New York City, August 2017 (attending).
 * Visiting Scholar, Uconn Business School, Storrs, July-December, 2017.
