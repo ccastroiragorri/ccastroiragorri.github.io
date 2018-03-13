@@ -1,4 +1,4 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Fintech](Fintech.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)     
 
 # Finance
 
@@ -8,8 +8,8 @@ Most of my research is based on finding new ways to approach a problem or curren
 
 I am also heavily involved in building an academic and practitioner community in finance in Colombia and Latin America
 
-* Since 2017, I am very interested in finance and technology, hence I have been spending a lot of time learning Python and Jupyter and reading on FinTech, Machine Learning, Probabilistic Robotics, Open Innovation, among other things.
-* We are in the process of rethinking our Master in Quantitative Finance.
+* Since 2017, I am very interested in finance and technology, hence I have been spending a lot of time learning Python and Jupyter and reading on Blockchain, FinTech, Machine Learning, Probabilistic Robotics, Open Innovation, among other things.
+* We are in the process of rethinking our Master in Quantitative Finance, coming 2019.
 * In May 2017, I co-organized a seminar on [Longevity Risk]( http://www.urosario.edu.co/Home/Principal/Eventos/Facultad-de-Economia/Conferencia-Riesgo-de-Longevidad-desafios-y-opor/) with AXA-Colpatria and funded by the Institut Français within the Annee France Colombie.
 * In 2017, we started a joint bi-monthly finance seminar with various universities in Bogota: CESA, Universidad Javeriana, Universidad de los Andes, Universidad del Rosario. 
 * In June 2016, we co-organized [Second International Congress on Actuarial Science and Quantitative Finance]( http://icasqf.org/) in Cartagena, Colombia. The third edition will be in 2019 in Manizales. Jaime also started to organize the Latin American Society of Quantitative Finance and Actuarial Sciences.
