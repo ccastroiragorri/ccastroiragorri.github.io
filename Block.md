@@ -1,15 +1,14 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Fintech](Fintech.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Fintech](Block.md)    
 
-# Fintech
+# Blockchain
 
-## Online Marketplace
+## [Blockchain for open science](http://blockchain4openscience.org/)
 
-*	[The Sharing Economy: the end of employment and the rise of crowd-based capitalism, A.  Sundararajan (2016), The MIT Press.](https://mitpress.mit.edu/sharing-economy)
-*	AIRBNB, a global platform made up of “host” renting spare bedrooms, apartments,…(additional services experiences…) and paying guests. Independent from the platform itself new agents are participating in this platform, investors: 
-    *	[Get loans from bookings.](https://clearbanc.com/landing/airbnb)
-    * [Get payed for future bookings.](https://www.payfully.co/howitworks)
-    
-## Blockchain
+I am currently participating in this project, here is a short description:
+
+Blockchain fits the mindset of open science and can help to fulfill open science principles: transparency and availability of blockchain makes scientific outputs open & transparent; disintermediation removes subjectivity from scientific reviews; integrity and possibility to secure transactions in the competing environment increases trust in scientific results; smart contracts allows to manage access to scientific outputs; immutability represents precise relationships between the works with such features as richness, time-based relationships, and logical precursors.
+
+## Learning about Blockchain: Resources
 
 Given the strong interest in blockchain, I decided to learn about it (for personal and academic reasons).  Here are a couple of resources:
 * [Do you need a blockchain? (by Wüst and Gervais, 2017)](http://doyouneedablockchain.com/)	
@@ -21,10 +20,12 @@ Given the strong interest in blockchain, I decided to learn about it (for person
 *	[Cryptoeconomics (by Kordez, 2017).](https://medium.com/@primoz.kordez/the-economics-of-blockchain-protocols-18bca548e596)
 * [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies (by Bonneau et al. 2015)](http://ieeexplore.ieee.org/document/7163021/)
 *  [Institutional cryptoeconomics (by RMIT Blockchain Innovation Hub, 2017).](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
+*  [Permissioned Blockchains, (by Monax, 2018)](https://monax.io/explainers/permissioned_blockchains/)
 
 
-## Hyperledger
+## Learning about Hyperledger
 
 [The Linux Foundation initiative on Blockchain technology.](https://www.hyperledger.org/)
 * [An Introduction to Hyperledger Technologies](https://training.linuxfoundation.org/linux-courses/system-administration-training/blockchain-for-business-an-introduction-to-hyperledger?utm_source=hyperledger-website&utm_medium=banner&utm_campaign=hlmooc2017)
 * [Hyperledger Composer: Build Blockchain applications and business networks your way](https://hyperledger.github.io/composer/)
+* [Blockchain Development on Hyperledger Fabric using Composer, Udemy](https://www.udemy.com/hyperledger/)
