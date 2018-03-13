@@ -1,4 +1,4 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Fintech](Fintech.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)     
 
 # Carlos Castro Iragorri
 
@@ -6,7 +6,7 @@
 
 I am associate professor at the Faculty of Economics at Universidad del Rosario in Bogota, Colombia.
 
-Research interests: Financial Econometrics, Quantitative Risk Management, Empirical Finance. 
+Research interests: Financial Econometrics, Quantitative Risk Management, Empirical Finance, Fintech, Blockchain. 
 
 Personal email: ccastroiragorri@gmail.com 
 
