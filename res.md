@@ -15,6 +15,7 @@
 
 ## Visiting Positions, talks and conferences.
 
+* Universidad EAFIT, Medellin, August 2018.
 * Uconn Business School, Storrs, November, 2017.
 * NYU Stern FinTech Conference 2017, New York City, November, 2017 (attending).
 * JupyterCon, New York City, August 2017 (attending).
