@@ -4,9 +4,9 @@
 
 I am currently working on two projects using [Hyperledger frameworks and tools](https://www.hyperledger.org/projects), here is a short description:
 
-## Digital Degree 
+## [Digital Diploma](Ddiploma.md) 
 
-A proof of concept (PoC) of a permissioned blockchain for verifiable digital diplomas base on the [Blockcerts](https://www.blockcerts.org/about.html) open standard. Digital diplomas are a transparent way of verifying professional or educational accomplishments for a global workforce and it’s a first step toward supplying the full record of a learning experience (transcripts, projects,..). Blockcerts is an open-source project initially led by MIT’s media lab and Learning Machine. Blockcerts focus has been on issuing the certificates on Bitcoin and Ethereum. Our goal is to extend the certification process in a permissioned blockchain using the Hyperledger framework and tools. The initial aim is to build a ledger of digital diplomas to be deployed for a university and extend its possibilities to other institutions.
+We provide a PoC for issuing digital diplomas on a permissioned blockchain intended for universities. The diplomas are issued following the Blockcert standard that is currently available for use in the Bitcoin and the Ethereum blockchains. Using Hyperledger Fabric and Composer we propose a business network model that is Blockcert compliant and that is deployed to meet the diploma issuing need of different faculties within a university with a possibility to extending to other institutions. The PoC includes client applications for student and employer verification of the diplomas. Currently the [Blockcert](https://www.blockcerts.org/about.html) standard is available for permission-less blockchains like Bitcoin and  Ethereum, we extend this to an application that can be deployed using the Hyperledger framework and tools. We provide a business case that is relevant and scalable to different institutions working on a public permissioned blockchain that can guarantee a  transparent way of verifying professional or educational accomplishments for a global workforce. 
 
 ## [Blockchain for open science](http://blockchain4openscience.org/)
 
