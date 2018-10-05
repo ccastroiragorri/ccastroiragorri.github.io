@@ -15,6 +15,10 @@
 
 ## Visiting Positions, talks and conferences.
 
+* [12th International Conference on Computational and Financial Econometrics, Pisa, December, 2018.](http://www.cfenetwork.org/CFE2018/)
+* [Hypeledger Global Forum, Basel, December, 2018](https://events.linuxfoundation.org/events/hyperledger-global-forum-2018/program/agenda/)
+* [BioHackathon, Paris, November, 2018.](https://bh2018paris.info/projects) 
+* Blockchain Summit LATAM, Bogota, October, 2018 (attending).
 * Universidad EAFIT, Medellin, August 2018.
 * Uconn Business School, Storrs, November, 2017.
 * NYU Stern FinTech Conference 2017, New York City, November, 2017 (attending).

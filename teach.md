@@ -5,13 +5,13 @@
 ## Universidad del Rosario
 
 * Predictive Modeling (graduate) 2019.
-* Blockchain applications: technological innovation and economic transformation (continuing education) 2018.
+* Blockchain applications (continuing education) 2018.
 * Empirical Finance (graduate) 2017-2018.
 * Investments (undergraduate) 2017.
 * Financial Forecasting and Simulation (graduate) 2017-2019.
 * Modeling the term structure of interest rates (graduate) 2016.
 * Quantitative Methods in Finance (undergraduate) 2016.
-* Quantitative Risk Management (graduate) 2013-2017.
+* Quantitative Risk Management (graduate) 2013-2018.
 * Financial Econometrics (graduate) 2013-2016.
 * Financial theory in discrete time (graduate) 2013-2014.
 * Introduction to Quantitive Finance (continuing education) 2012, modules: Fixed-income investment, Quantitive risk management, Market risk, Credit and counterparty risk. 
