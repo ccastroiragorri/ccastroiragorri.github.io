@@ -4,10 +4,6 @@
 
 I am currently working on two projects using [Hyperledger frameworks and tools](https://www.hyperledger.org/projects), here is a short description:
 
-## [Digital Diploma](Ddiploma.md) 
-
-We provide a PoC for issuing digital diplomas on a permissioned blockchain intended for universities. The diplomas are issued following the Blockcert standard that is currently available for use in the Bitcoin and the Ethereum blockchains. Using Hyperledger Fabric and Composer we propose a business network model that is Blockcert compliant and that is deployed to meet the diploma issuing need of different faculties within a university with a possibility to extending to other institutions. The PoC includes client applications for student and employer verification of the diplomas. Currently the [Blockcert](https://www.blockcerts.org/about.html) standard is available for permission-less blockchains like Bitcoin and  Ethereum, we extend this to an application that can be deployed using the Hyperledger framework and tools. We provide a business case that is relevant and scalable to different institutions working on a public permissioned blockchain that can guarantee a  transparent way of verifying professional or educational accomplishments for a global workforce. 
-
 ## [Blockchain for open science](http://blockchain4openscience.org/)
 
 [Blockchain fits the mindset of open science and can help to fulfill open science principles: transparency and availability of blockchain makes scientific outputs open & transparent; disintermediation removes subjectivity from scientific reviews; integrity and possibility to secure transactions in the competing environment increases trust in scientific results; smart contracts allows to manage access to scientific outputs; immutability represents precise relationships between the works with such features as richness, time-based relationships, and logical precursors.](https://github.com/Blockchain4openscience/B4OS-frontend) 
