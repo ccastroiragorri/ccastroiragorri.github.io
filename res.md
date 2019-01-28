@@ -30,7 +30,7 @@
 
 ## Visiting Positions, talks and conferences.
 
-* •	Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee).
+* Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee).
 * [12th International Conference on Computational and Financial Econometrics, Pisa, December, 2018.](http://www.cfenetwork.org/CFE2018/)
 * [Hypeledger Global Forum, Basel, December, 2018](https://www.youtube.com/watch?v=r2BGzIsB4ww&feature=youtu.be)
 * [BioHackathon, Paris, November, 2018.](https://bh2018paris.info/projects) 
