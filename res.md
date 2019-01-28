@@ -4,6 +4,8 @@
 
 ## Refereed Journal Articles
 
+* Measuring the effectiveness of volatility auctions, R&R International Review of Economics & Finance (with D. Agudelo and S. Preciado).
+* Does the market model provide a good counterfactual for event studies in finance? R&R Financial Markets and Portfolio Management.
 * Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12. (in Spanish) [http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.]( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.) 
 * Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia) [https://doi.org/10.1108/AFR-10-2013-0036]( https://doi.org/10.1108/AFR-10-2013-0036 )
 * Measuring and testing for the systemically important financial institutions, Journal of Empirical Finance, Volume 25, January 2014, Pages 1–14, (with S. Ferrari) [https://doi.org/10.1016/j.jempfin.2013.10.009](https://doi.org/10.1016/j.jempfin.2013.10.009)
@@ -13,10 +15,24 @@
 * Uncertainty in asset correlation for portfolio credit risk: the shortcomings of the Basel II framework, Proceedings CREDIT Conference Credit Risk, Financial Crises, and the Macroeconomy, Vol. 2, Venice, Italy, September 2009.
 * [X-efficiency in Colombia’s Banking Industry, Desarrollo y Sociedad, September 2001, 48, pp. 1-52, (in Spanish)](https://economia.uniandes.edu.co/images/archivos/pdfs/Articulos_Revista_Desarrollo_y_Sociedad/Articulo48_4.pdf)
 
+## Works in progress
+
+* [A blockchain scholarly wallet for research assets](https://github.com/Blockchain4openscience), [Blockchain4openscience](http://blockchain4openscience.com/), (with A. Garcia, F. Lopez, P. Prins, S. Cardona, M. Colon, O. Giraldo).) 
+* [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities](https://github.com/Blockchain4openscience/casaur-frontend), (with A. Garcia, F. Lopez, C. Ruiz, S. Cardona)
+
+## Publications in books and blogs.
+
+* [Tracking Biosamples in Hyperledger Blockchain. The Pistoia Alliance at Biohackathon Paris](https://www.pistoiaalliance.org/tracking-biosamples-in-hyperledger-blockchain-the-pistoia-alliance-at-biohackathon-paris-2018/), 2018 (with R. Shute).
+* Measuring the systemic importance of financial institutions using market information, in Financial stability review, National Bank of Belgium, Junio 2010, pp. 127-141 (with S. Ferrari).
+* Uncertainty in asset correlation for portfolio credit risk: the shortcomings of the Basel II framework, Proceedings CREDIT Conference Credit Risk, Financial Crises, and the Macroeconomy, Vol. 2, Venecia, Italia, Septiembre 2009.
+* Eficiencia, competencia y márgenes de intermediación en El sector financiero de cara al siglo XXI, ANIF, Noviembre de 2002, Tomo 1, (with R. Steiner).
+* Otra mirada al margen de intermediación financiera, Separata Especial, Portafolio-DNP, Septiembre 2001, (with N. Salazar).
+
 ## Visiting Positions, talks and conferences.
 
+* •	Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee).
 * [12th International Conference on Computational and Financial Econometrics, Pisa, December, 2018.](http://www.cfenetwork.org/CFE2018/)
-* [Hypeledger Global Forum, Basel, December, 2018](https://events.linuxfoundation.org/events/hyperledger-global-forum-2018/program/agenda/)
+* [Hypeledger Global Forum, Basel, December, 2018](https://www.youtube.com/watch?v=r2BGzIsB4ww&feature=youtu.be)
 * [BioHackathon, Paris, November, 2018.](https://bh2018paris.info/projects) 
 * Blockchain Summit LATAM, Bogota, October, 2018 (attending).
 * Universidad EAFIT, Medellin, August 2018.
@@ -67,8 +83,6 @@
 
 ### Working Papers
 
-*	[Does the market model provide a good counterfactual for event studies in finance?, December 2017](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3084275)
-* Measuring the effectiveness of volatility call auctions, January 2017, (with D. Agudelo and S. Preciado).
 *	Racial and spatial interaction for neighborhood dynamics in Chicago, Facultad de Economía, Documento de trabajo. 189, June 2016, pp. 30 (with A. Badel and C. Rodriguez).
 *	Network externalities across financial institutions, Facultad de Economía, Documento de trabajo. 184, February 2016, pp. 23 (with J.S. Ordoñez and S. Preciado).
 *	Stock return co-movements and integration within the Latin American integrated market, April, 2014, (with N.J. Marin), Universidad del Rosario, Faculty of Economics, working paper, no. 154.
