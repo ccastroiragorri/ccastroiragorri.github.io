@@ -24,8 +24,12 @@
 
 * Intermediate Econometrics (undergraduate) 2001-2002.
 
-## Details of student supervision
+# Details of student supervision
 
+*	Maykol Rodríguez (MSc in Economics, 2019): “Espectral graph theory in network formation: minimun eigenvalue” in Spanish. co-supervised with Tomas Rodríguez, Universidad de los Andes. 
+*	Juan Felipe Peña (MSc Quantitative Finance, 2019): “A segmented Nelson and Siegel model for the term structure of interest rates”, Adv, Coordinator of advanced analytics at Experian (co-supervised with Cristhian Rodríguez, UC3). 
+* Jean Carlos Torres (MSc Quantitative Finance, 2019): “Expectile as an alternative risk measure and applications on factor models”, in Spanish. Risk analyst at UALET.
+* Pierre Ricardo Acuña (2019): “Forecasting The Term Structure Of Interest Rates: Macro-Economic and Co-integration Analysis For Colombia”, Risk analyst at Scotiabank Colpatria. (co-supervised with Cristihan Rodríguez, UC3). 
 * Catalina Cadena (MSc Quantitative Finance, 2018): "Market quality in the intraday market for the Colombian Stock Exchange" (in Spanish) Quantitative Analyst at Infovalmer.
 * Daniel Guzman (MSc Quantitative Finance, 2018): "Asymmetric effects in the volatilities for the Euro swap rates" (in Spanish) Research Assistant at Inter-American Development Bank.
 * Jose Bran Guevara (MSc in Economics, 2017): "Capital flows in emerging markets: the role of capital controls" (in Spanish). Professional at Fondo Latinoamericano de Reservas (FLAR).
