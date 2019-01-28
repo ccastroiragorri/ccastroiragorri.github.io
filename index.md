@@ -6,7 +6,7 @@
 
 I am associate professor at the Faculty of Economics at Universidad del Rosario in Bogota, Colombia.
 
-Research interests: Financial Econometrics, Blockchain, Quantitative Risk Management, Empirical Finance, Fintech. 
+Research interests: Statistical Analysis of Financial Data, Blockchain, Quantitative Risk Management, Mathematical Finance. 
 
 Personal email: ccastroiragorri@gmail.com 
 
