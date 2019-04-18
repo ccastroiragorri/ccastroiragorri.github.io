@@ -1,4 +1,4 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)|[Digital Diploma](Ddiploma.md)     
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Ddiploma.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)    
 
 
 # Short Bio
@@ -6,11 +6,11 @@
 Carlos Castro has a BA and MA in economics from Universidad de los Andes in Bogota.  
 In addition he has a PhD in Economics and a M.Sc. in Statistics from Université Libre de Bruxelles.  
 Before joining Universidad del Rosario he had research contracts with the National Bank of Belgium,  
-and the National Department of Planning of the Colombian government.  During his PhD studies he also 
+and the National Department of Planning of the Colombian government.  During his PhD studies he also
 collaborated with the Credit Portfolio Modeling department at Dexia sa, in Brussels.
 
 ## Education
- 
+
 1. PhD in Economics, Université Libre de Bruxelles, Belgium, 2010.
 2. DEA en Statistique Université Libre de Bruxelles, Belgium,  2007.
 3. MA in Economics, Universidad de los Andes, Colombia, 2001.
@@ -32,8 +32,7 @@ collaborated with the Credit Portfolio Modeling department at Dexia sa, in Bruss
 
 # Grants
 
-1. Event Grant Anne France Colombie, Institute Française, 2017, €15,000.
+1. Conference Grant Anne France Colombie, Institute Française, 2017, €15,000.
 2. Research Assistant grants, Colciencias, 2011 (1), 2015 (2).
 3. Research Fund (FIUR), Universidad del Rosario, 2011, 2013, COP 20´000,000
 4. MAP-BID, Inter-American Development Bank, 2012-2013, €20,000
-    

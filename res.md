@@ -1,24 +1,24 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)|[Digital Diploma](Ddiploma.md)     
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Ddiploma.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)    
 
 # Research
 
 ## Refereed Journal Articles
 
 * Measuring the effectiveness of volatility auctions, R&R International Review of Economics & Finance (with D. Agudelo and S. Preciado).
-* Does the market model provide a good counterfactual for event studies in finance? R&R Financial Markets and Portfolio Management.
-* Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12. (in Spanish) [http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.]( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.) 
-* Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia) [https://doi.org/10.1108/AFR-10-2013-0036]( https://doi.org/10.1108/AFR-10-2013-0036 )
-* Measuring and testing for the systemically important financial institutions, Journal of Empirical Finance, Volume 25, January 2014, Pages 1–14, (with S. Ferrari) [https://doi.org/10.1016/j.jempfin.2013.10.009](https://doi.org/10.1016/j.jempfin.2013.10.009)
+* [Does the market model provide a good counterfactual for event studies in finance? Financial Markets and Portfolio Management, March 2019, Volume 33, Issue 1, pp 71–91.](https://link.springer.com/article/10.1007/s11408-019-00325-4)
+* [Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12 (in Spanish).( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.)
+* [Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia).] (https://doi.org/10.1108/AFR-10-2013-0036 )
+* [Measuring and testing for the systemically important financial institutions, Journal of Empirical Finance, Volume 25, January 2014, Pages 1–14, (with S. Ferrari)](https://doi.org/10.1016/j.jempfin.2013.10.009)
 * [Confidence sets for asset correlations in portfolio credit risk, Revista de Economía del Rosario, Vol. 15, No. 1, 2012](http://repository.urosario.edu.co/handle/10336/11217)
-* Portfolio choice under local industry and country factors, Financial Markets and Portfolio Management, 24(4), December 2010 [https://doi.org/10.1007/s11408-010-0143-9](https://doi.org/10.1007/s11408-010-0143-9)
+* [Portfolio choice under local industry and country factors, Financial Markets and Portfolio Management, 24(4), December 2010](https://doi.org/10.1007/s11408-010-0143-9)
 * [Measuring the systemic importance of financial institutions using market information, in Financial stability review, National Bank of Belgium, June 2010, pp. 127-141 (with S. Ferrari)](https://www.nbb.be/doc/ts/publications/fsr/fsr_2010_en.pdf)
 * Uncertainty in asset correlation for portfolio credit risk: the shortcomings of the Basel II framework, Proceedings CREDIT Conference Credit Risk, Financial Crises, and the Macroeconomy, Vol. 2, Venice, Italy, September 2009.
 * [X-efficiency in Colombia’s Banking Industry, Desarrollo y Sociedad, September 2001, 48, pp. 1-52, (in Spanish)](https://economia.uniandes.edu.co/images/archivos/pdfs/Articulos_Revista_Desarrollo_y_Sociedad/Articulo48_4.pdf)
 
 ## Works in progress
 
-* [A blockchain scholarly wallet for research assets](https://github.com/Blockchain4openscience), [Blockchain4openscience](http://blockchain4openscience.com/), (with A. Garcia, F. Lopez, P. Prins, S. Cardona, M. Colon, O. Giraldo).) 
-* [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities](https://github.com/Blockchain4openscience/casaur-frontend), (with A. Garcia, F. Lopez, C. Ruiz, S. Cardona)
+* [A blockchain scholarly wallet for research assets](https://github.com/Blockchain4openscience), [Blockchain4openscience](http://blockchain4openscience.com/), (with A. Garcia, F. Lopez, P. Prins, S. Cardona, M. Colon, O. Giraldo).)
+* [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities](https://hgf18.sched.com/event/G8rr), (with A. Garcia, O. Giraldo, F. Lopez, C. Ruiz, S. Cardona)
 
 ## Publications in books and blogs.
 
@@ -30,10 +30,14 @@
 
 ## Visiting Positions, talks and conferences.
 
-* Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee).
+* Banco de la Republica, July 2019.
+* [Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee)](http://icasqf2019.icasqf.org/).
+* Financial Management Association, FMA Global Conference, Bogota, May 2019 (discussant).
+* Blockchain Colombia Meetup, Vivelab, April 2019.
+* Universidad Sergio Arboleda, April 2019.
 * [12th International Conference on Computational and Financial Econometrics, Pisa, December, 2018.](http://www.cfenetwork.org/CFE2018/)
 * [Hypeledger Global Forum, Basel, December, 2018](https://www.youtube.com/watch?v=r2BGzIsB4ww&feature=youtu.be)
-* [BioHackathon, Paris, November, 2018.](https://bh2018paris.info/projects) 
+* [BioHackathon, Paris, November, 2018.](https://bh2018paris.info/projects)
 * Blockchain Summit LATAM, Bogota, October, 2018 (attending).
 * Universidad EAFIT, Medellin, August 2018.
 * Uconn Business School, Storrs, November, 2017.
@@ -58,27 +62,27 @@
 *	7th International Conference on Computational and Financial Econometrics,   London, December 2013.
 *	Universidad Sergio Arboleda, October, 2013
 *	ICESI, Cali, April 2013,
-*	ECARES/ULB, Brussels, December, 2012. 
+*	ECARES/ULB, Brussels, December, 2012.
 *	6th International Conference on Computational and Financial Econometrics, Oviedo, December 2012.
 *	Actuarial Wednesdays, Universidad del Rosario-Asociación Colombiana de Actuarios, October 2012.
 *	Mathematical Finance Seminar, Universidad de los Andes, October 2012.
 *	5th Financial Risk International Forum Systemic Risk, Paris, March, 2012.
-*	ECARES/ULB, Brussels, March, 2012. 
-*	Banco de la Republica de Colombia, Bogotá, November, 2011. 
-*	LACEA-LAMES 2011, Santiago, November, 2011. 
+*	ECARES/ULB, Brussels, March, 2012.
+*	Banco de la Republica de Colombia, Bogotá, November, 2011.
+*	LACEA-LAMES 2011, Santiago, November, 2011.
 *	11th Annual FDIC/JFSR Bank Research Conference, Washington D.C., September 2011.
 *	Visiting Scholar, Federal Reserve Bank of St. Louis, March 2011.
-*	Midwest Finance association, Chicago, March 2011. 
-*	4rd International Conference on Computational and Financial Econometrics,     London, December 2010. 
+*	Midwest Finance association, Chicago, March 2011.
+*	4rd International Conference on Computational and Financial Econometrics,     London, December 2010.
 *	Faculty of Economics, Universidad del Rosario, August 2010
-*	3rd International Conference on Computational and Financial Econometrics, Limassol, October 2009. 
-*	CREDIT Conference, Venice, September 2009. 
-*	VU, Amsterdam, April, 2009. 
-*	ENTER Jamboree, London February, 2009. 
-*	Factor Structures for Panel and Multivariate Time Series Data, Maastricht, September, 2008. 
+*	3rd International Conference on Computational and Financial Econometrics, Limassol, October 2009.
+*	CREDIT Conference, Venice, September 2009.
+*	VU, Amsterdam, April, 2009.
+*	ENTER Jamboree, London February, 2009.
+*	Factor Structures for Panel and Multivariate Time Series Data, Maastricht, September, 2008.
 *	2nd Annual Doctoral Workshop at ULB, Brussels, May, 2008.
 *	International financial Research Forum, Paris, March, 2008. (Poster)
-*	Workshop on Multivariate Time Series Modelling, UCL, Louvain-La-Neuve, May, 2007. 
+*	Workshop on Multivariate Time Series Modelling, UCL, Louvain-La-Neuve, May, 2007.
 * Visiting PhD student (January-April), INSEAD, Fontainebleau, 2007
 
 ### Working Papers
@@ -95,4 +99,3 @@
 *	Yet another lagging, coincident and leading index for the Colombian Economy, Archivos de Economía, No. 233, Departamento Nacional de Planeación (DNP), Bogotá, Colombia, September 2003.
 *	Efficiency, competition and intermediation margins in The Financial Sector readiness toward the twenty-first century, ANIF, November de 2002, Volume 1, (with R. Steiner, in Spanish).
 *	Otra mirada al margen de intermediación financiera, Separata Especial, Portafolio-DNP, Septiembre 2001, (with N. Salazar).
-
