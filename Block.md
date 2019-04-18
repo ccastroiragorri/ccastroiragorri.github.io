@@ -6,19 +6,19 @@ I am currently working on two projects using [Hyperledger frameworks and tools](
 
 # [Hyperledger supporting Blockcerts compliant digital diplomas accross Colombian universities](https://www.youtube.com/watch?v=r2BGzIsB4ww&feature=youtu.be).
 
-We have built an open source permissioned hyperledger blockchain for managing digital certificates based on the [Blockcert](https://www.blockcerts.org/about.html) open standard. Our proof of concept (PoC) makes it possible to verify certificates issued by universities; we are initially working with a simple certificate that can be easily extended to diplomas and badges. Our PoC delivers helps to prevent forgery; in addition, it also delivers a transparent-interoperable infrastructure that makes it possible to verify educational accomplishments.  Ours is the first step towards an open, interoperable and  verifiable educational experience. We are working with the Blockcerts standards in hyperledger and adapting it to the Colombian scenario.  Blockcerts is an open-source project initially led by MIT’s media lab and Learning Machine. Blockcerts focus has been on issuing certificates over third party platforms like Bitcoin and Ethereum. Our goal is to implement the certification process in a permissioned blockchain using the Hyperledger framework and define the semantics, in the form of an ontology, for this process in order to facilitate interoperability -idem data exchange. Moreover, we want to decouple the certification process from cryptocurrencies dependent platforms. [Universidad del Rosario](https://www.urosario.edu.co/Casa-ur/inicio/) provided the user case for the issuance of three types of certificates form CASA UR (administrative office within the university). 
+We have built an open source permissioned hyperledger blockchain for managing digital certificates based on the [Blockcert](https://www.blockcerts.org/about.html) open standard. Our proof of concept (PoC) makes it possible to verify certificates issued by universities; we are initially working with a simple certificate that can be easily extended to diplomas and badges. Our PoC delivers helps to prevent forgery; in addition, it also delivers a transparent-interoperable infrastructure that makes it possible to verify educational accomplishments.  Ours is the first step towards an open, interoperable and  verifiable educational experience. We are working with the Blockcerts standards in hyperledger and adapting it to the Colombian scenario.  Blockcerts is an open-source project initially led by MIT’s media lab and Learning Machine. Blockcerts focus has been on issuing certificates over third party platforms like Bitcoin and Ethereum. Our goal is to implement the certification process in a permissioned blockchain using the Hyperledger framework and define the semantics, in the form of an ontology, for this process in order to facilitate interoperability -idem data exchange. Moreover, we want to decouple the certification process from cryptocurrencies dependent platforms. [Universidad del Rosario](https://www.urosario.edu.co/Casa-ur/inicio/) provided the user case for the issuance of three types of certificates form CASA UR (administrative office within the university).
 
-## Collaborators:
+## Application: The application is currently running in a server deployed onto a simple Hyperledger Fabric network.
+* [Backend in Hyperledger Composer](http://li403-56.members.linode.com:8080/)
+* [Frontend, example to verify certificate 1050](http://li403-56.members.linode.com/casaur/verify-certificate)
+* ![Example](ejemploVerify.png)
+
+### Collaborators:
 * [Alexander Garcia, Graz University of Technology (TU Graz), Austria.](https://www.researchgate.net/profile/Alexander_Garcia)
 * [Federico Lopez, Developer, EBI, UK](https://github.com/ficolo)
 * [Olga Giraldo, PhD student, Universidad Politécnica de Madrid, Madrid, Spain](https://github.com/oxgiraldo).
 * [Camilo Casanova, Developer, Universidad del Valle, Cali, Colombia](https://github.com/Camilo1090).
 * [Sergio Cardona, Developer, Universidad del Valle, Cali, Colombia](https://github.com/chechocardona)
-
-## Application: The application is currently running in a server deployed onto a simple Hyperledger Fabroc network.
-* [Backend in Hyperledger Composer](http://li403-56.members.linode.com:8080/)
-* [Frontend, example to verify certificate 1050](http://li403-56.members.linode.com/casaur/verify-certificate)
-* ![Example](ejemploVerify.png)
 
 <!---
 ## Problem statement
@@ -29,14 +29,13 @@ A permissioned public blockchain provides a way for institutions, e.g. universit
 Currently there is a working version of the [business network model that incorporates the Blockcerts standard using Composer and with the possibility of deploying the business network onto a Fabric network](https://github.com/Blockchain4openscience/blockdegree-frontend) supporting three clients: first, a university administrator at the central registry in charge of the designing a certificate template; second, a faculty administrator in charge of issuing the certificates to the students using the student roster and the certificate template; and third and external user (student or employer) that is able to retrieve and verify the certificate. We are currently working with Universidad del Rosario in Bogota, Colombia, to get a working prototype of the blockchain for issuing the digital diplomas by the end of 2018.
 -->
 
-## [Blockchain for open science](http://blockchain4openscience.org/)
+# [Blockchain for open science](http://blockchain4openscience.org/)
 
 [Blockchain fits the mindset of open science and can help to fulfill open science principles: transparency and availability of blockchain makes scientific outputs open & transparent; disintermediation removes subjectivity from scientific reviews; integrity and possibility to secure transactions in the competing environment increases trust in scientific results; smart contracts allows to manage access to scientific outputs; immutability represents precise relationships between the works with such features as richness, time-based relationships, and logical precursors.](https://github.com/Blockchain4openscience/B4OS-frontend)
 
 * Blockchain Scholarly Wallet.
 
 * Journal of Workflows in Biomedical Sciences (JWBS). [Google Summer of Code, 2019](https://obf.github.io/GSoC/ideas/#add-block-chains-and-hyperledger-support-for-the-journal-of-open-data-publications)
-
 
 <!---
 ## Learning about Blockchain: Resources

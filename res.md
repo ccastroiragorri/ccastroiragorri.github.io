@@ -6,8 +6,8 @@
 
 * Measuring the effectiveness of volatility auctions, R&R International Review of Economics & Finance (with D. Agudelo and S. Preciado).
 * [Does the market model provide a good counterfactual for event studies in finance? Financial Markets and Portfolio Management, March 2019, Volume 33, Issue 1, pp 71–91.](https://link.springer.com/article/10.1007/s11408-019-00325-4)
-* [Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12 (in Spanish).( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.)
-* [Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia).] (https://doi.org/10.1108/AFR-10-2013-0036 )
+* [Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12 (in Spanish)]( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.)
+* [Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia).](https://doi.org/10.1108/AFR-10-2013-0036 )
 * [Measuring and testing for the systemically important financial institutions, Journal of Empirical Finance, Volume 25, January 2014, Pages 1–14, (with S. Ferrari)](https://doi.org/10.1016/j.jempfin.2013.10.009)
 * [Confidence sets for asset correlations in portfolio credit risk, Revista de Economía del Rosario, Vol. 15, No. 1, 2012](http://repository.urosario.edu.co/handle/10336/11217)
 * [Portfolio choice under local industry and country factors, Financial Markets and Portfolio Management, 24(4), December 2010](https://doi.org/10.1007/s11408-010-0143-9)
