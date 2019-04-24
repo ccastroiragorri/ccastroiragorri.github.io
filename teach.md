@@ -1,4 +1,4 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Ddiploma.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Digital Diplomas](Ddiploma.md)|[Blockchain4openscience](Block.md)   
 
 # Teaching
 
@@ -27,7 +27,7 @@
 
 # Details of student supervision
 
-*	Maykol Rodríguez (MSc in Economics, 2019): “Espectral graph theory in network formation: minimun eigenvalue” in Spanish. co-supervised with Tomas Rodríguez, Universidad de los Andes.
+*	Maykol Rodríguez (MSc in Economics, 2019): “Spectral graph theory in network formation: minimum eigenvalue” in Spanish. co-supervised with Tomas Rodríguez, Universidad de los Andes.
 *	Juan Felipe Peña (MSc Quantitative Finance, 2019): “A segmented Nelson and Siegel model for the term structure of interest rates”, Adv, Coordinator of advanced analytics at Experian (co-supervised with Cristhian Rodríguez, UC3).
 * Jean Carlos Torres (MSc Quantitative Finance, 2019): “Expectile as an alternative risk measure and applications on factor models”, in Spanish. Risk analyst at UALET.
 * Pierre Ricardo Acuña (MSc Quantitative Finance, 2019): “Forecasting The Term Structure Of Interest Rates: Macro-Economic and Co-integration Analysis For Colombia”, Risk analyst at Scotiabank Colpatria. (co-supervised with Cristihan Rodríguez, UC3).

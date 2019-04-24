@@ -1,4 +1,4 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Ddiploma.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Blockchain](Block.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Digital Diplomas](Ddiploma.md)|[Blockchain4openscience](Block.md)    
 
 # Research
 
