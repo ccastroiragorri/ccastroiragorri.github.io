@@ -3,5 +3,6 @@
 # Jupyter Notebooks
 
 * [Synthetic portfolio / matching for event studies in finance](https://nbviewer.jupyter.org/github/ccastroiragorri/ccastroiragorri.github.io/blob/master/SyntheticPortfolio_M&A_MSFT_YHOO-F-header.ipynb)
-* [Visualizing intraday volume Ecopetrol stock at BVC, March-August 2017](https://nbviewer.jupyter.org/github/ccastroiragorri/ccastroiragorri.github.io/blob/master/IntradayCol_V2_ex_Ecopetrol.ipynb)
+* [Visualizing intraday data for Ecopetrol stock at BVC](https://github.com/nromerodiaz/MarketQualityParams/blob/master/VisualizationECOPETL.ipynb)
 * [Realized GARCH for S&P 500](https://nbviewer.jupyter.org/github/ccastroiragorri/ccastroiragorri.github.io/blob/master/RealizedGarchv2.ipynb)
+* [Segmented Nelson and Siegel model for the Term Structure of interest rates](https://nbviewer.jupyter.org/github/ccastroiragorri/ccastroiragorri.github.io/blob/master/Out_In_Sample-PerYear-2017.ipynb)

@@ -89,7 +89,6 @@
 
 *	Racial and spatial interaction for neighborhood dynamics in Chicago, Facultad de Economía, Documento de trabajo. 189, June 2016, pp. 30 (with A. Badel and C. Rodriguez).
 *	Network externalities across financial institutions, Facultad de Economía, Documento de trabajo. 184, February 2016, pp. 23 (with J.S. Ordoñez and S. Preciado).
-*	Stock return co-movements and integration within the Latin American integrated market, April, 2014, (with N.J. Marin), Universidad del Rosario, Faculty of Economics, working paper, no. 154.
 *	Default risk in agricultural lending: the effects of commodity price volatility and climate, IDB working paper series no. No. IDB-DP 362
 *	A Network model of systemic risk: identifying the sources of dependence across institutions, October, 2012, (with J.S. Ordoñez), Universidad del Rosario, Faculty of Economics, working paper, no. 121.
 *	Administración de riesgos en los Fondos Privados de Pensiones, Archivos de Economía, No. 351, Departamento Nacional de Planeación (DNP), Bogotá, Colombia, Enero 2009, in Spanish.
