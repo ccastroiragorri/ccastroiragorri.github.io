@@ -17,6 +17,7 @@
 
 ## Works in progress
 
+* [A Segmented and observable yield curve (2019)](https://github.com/ccastroiragorri/SegmentedTermStructureColombia/blob/master/A%20segmented%20and%20observable%20Yield%20Curve%20(2019).pdf), with (J.F. Peña, C. Rodriguez).
 * [A blockchain scholarly wallet for research assets](https://github.com/Blockchain4openscience), [Blockchain4openscience](http://blockchain4openscience.com/), (with A. Garcia, F. Lopez, P. Prins, S. Cardona, M. Colon, O. Giraldo).)
 * [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities](https://hgf18.sched.com/event/G8rr), (with A. Garcia, O. Giraldo, F. Lopez, C. Ruiz, S. Cardona)
 
@@ -33,7 +34,7 @@
 * Banco de la Republica, July 2019.
 * [Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee)](http://icasqf2019.icasqf.org/).
 * Financial Management Association, FMA Global Conference, Bogota, May 2019 (discussant).
-* Blockchain Colombia Meetup, Vivelab, April 2019.
+* Blockchain Colombia Meetup, Vivelab, May 2019.
 * Universidad Sergio Arboleda, April 2019.
 * [12th International Conference on Computational and Financial Econometrics, Pisa, December, 2018.](http://www.cfenetwork.org/CFE2018/)
 * [Hypeledger Global Forum, Basel, December, 2018](https://www.youtube.com/watch?v=r2BGzIsB4ww&feature=youtu.be)
