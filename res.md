@@ -31,6 +31,7 @@
 
 ## Visiting Positions, talks and conferences.
 
+* [Universidad del Rosario, August 2019.](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/A%20segmented%20and%20observable%20Yield%20Curve%20(2019)%20UR.pdf)
 * Banco de la Republica, July 2019.
 * [Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee)](http://icasqf2019.icasqf.org/).
 * Financial Management Association, FMA Global Conference, Bogota, May 2019 (discussant).
