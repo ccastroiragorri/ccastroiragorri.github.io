@@ -4,7 +4,7 @@
 
 ## Refereed Journal Articles
 
-* Measuring the effectiveness of volatility auctions, R&R International Review of Economics & Finance (with D. Agudelo and S. Preciado).
+* [Measuring the effectiveness of volatility auctions](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/Measuring%20the%20effectiveness%20of%20volatility%20auctions%20(2019).pdf), R&R International Review of Economics & Finance (with D. Agudelo and S. Preciado).
 * [Does the market model provide a good counterfactual for event studies in finance? Financial Markets and Portfolio Management, March 2019, Volume 33, Issue 1, pp 71–91.](https://link.springer.com/article/10.1007/s11408-019-00325-4)
 * [Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12 (in Spanish)]( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.)
 * [Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia).](https://doi.org/10.1108/AFR-10-2013-0036 )
