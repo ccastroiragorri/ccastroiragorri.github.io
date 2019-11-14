@@ -7,7 +7,7 @@
 * [Cámara de Riesgo Central de Contraparte de Colombia, Board of Directors (2019-2021).](https://www.camaraderiesgo.com/)
 * [Precia S.A. Proveedor de Precios Para Valoración, independent member of the Valuation Committee (2019-2020).](https://preciappv.co/)
 * LINKINGDATA S.A.S, co-founder and general director.
-* [Sociedad Latinoamericana de Ciencias Actuariales y Finanzas Cuantitativas, Founding member and Board of Directors (2018-2020).](https://solacfin.org/)
+* [Sociedad Latinoamericana de Ciencias Actuariales y Finanzas Cuantitativas, Founding member and Board of Directors (2018-2019).](https://solacfin.org/)
 
 ## Editorial and other academic Activities
 

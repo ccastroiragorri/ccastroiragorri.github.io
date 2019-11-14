@@ -4,17 +4,16 @@
 
 We have built an open source permissioned hyperledger blockchain for managing digital certificates based on the [Blockcert](https://www.blockcerts.org/about.html) open standard. Our proof of concept (PoC) makes it possible to verify certificates issued by universities; we are initially working with a simple certificate that can be easily extended to diplomas and badges. Our PoC delivers helps to prevent forgery; in addition, it also delivers a transparent-interoperable infrastructure that makes it possible to verify educational accomplishments.  Ours is the first step towards an open, interoperable and  verifiable educational experience. We are working with the Blockcerts standards in hyperledger and adapting it to the Colombian scenario.  Blockcerts is an open-source project initially led by MIT’s media lab and Learning Machine. Blockcerts focus has been on issuing certificates over third party platforms like Bitcoin and Ethereum. Our goal is to implement the certification process in a permissioned blockchain using the Hyperledger framework and define the semantics, in the form of an ontology, for this process in order to facilitate interoperability -idem data exchange. Moreover, we want to decouple the certification process from cryptocurrencies dependent platforms. [Universidad del Rosario](https://www.urosario.edu.co/Casa-ur/inicio/) provided the user case for the issuance of three types of certificates form CASA UR (administrative office within the university).
 
-## Application: The application is currently running in a server deployed onto a simple Hyperledger Fabric network.
-* [Backend in Hyperledger Composer](http://li403-56.members.linode.com:8080/)
-* [Frontend, example to verify certificate 1050](http://li403-56.members.linode.com/casaur/verify-certificate)
-* ![Example](ejemploVerify.png)
-
 ### Collaborators:
 * [Alexander Garcia, Graz University of Technology (TU Graz), Austria.](https://www.researchgate.net/profile/Alexander_Garcia)
 * [Federico Lopez, Developer, EBI, UK](https://github.com/ficolo)
 * [Olga Giraldo, PhD student, Universidad Politécnica de Madrid, Madrid, Spain](https://github.com/oxgiraldo).
 * [Camilo Casanova, Developer, Universidad del Valle, Cali, Colombia](https://github.com/Camilo1090).
 * [Sergio Cardona, Developer, Universidad del Valle, Cali, Colombia](https://github.com/chechocardona)
+
+# [Red BLUE](http://tic.crue.org/blue/)
+
+This project is now part of Red BLUE (Blockchain universidades españolas). At universidad del Rosario I am leading a team at the IT department and different faculties to implement the first international node of the network.  
 
 <!---
 ## Problem statement

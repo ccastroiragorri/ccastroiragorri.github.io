@@ -4,10 +4,10 @@
 
 ## Universidad del Rosario
 
-* Financial Economics (undergraduate), 2019.
+* Financial Economics (undergraduate), 2019-2020.
 * Predictive Modeling (graduate) 2019-2020.
-* Blockchain applications (continuing education) 2018-2020.
-* Empirical Finance (graduate) 2017-2018.
+* Blockchain applications (continuing education) 2018-2019.
+* Empirical Finance (graduate) 2017-2019.
 * Investments (undergraduate) 2017, 2019.
 * Financial Forecasting and Simulation (graduate) 2017-2020.
 * Modeling the term structure of interest rates (graduate) 2016.
@@ -20,6 +20,9 @@
 * Econometrics (undergraduate) 2011-2012.
 * Introduction to Economics, 2011.
 * Macroeconometrics, (TA), 2003.
+
+## Universidad Nacional de Colombia
+* Introduction to Hyperledger Fabric, a permissioned blockchain (continuing education) 2019. 
 
 ## Universidad de los Andes
 

@@ -17,7 +17,7 @@
 
 ## Works in progress
 
-* [A Segmented and observable yield curve (2019)](https://github.com/ccastroiragorri/SegmentedTermStructureColombia/blob/master/A%20segmented%20and%20observable%20Yield%20Curve%20(2019).pdf), with (J.F. Peña, C. Rodriguez).
+* [A Segmented and observable yield curve (2019)](https://ideas.repec.org/p/col/000092/017582.html), with (J.F. Peña, C. Rodriguez). [Complementary material]()
 * [A blockchain scholarly wallet for research assets](https://github.com/Blockchain4openscience), [Blockchain4openscience](http://blockchain4openscience.com/), (with A. Garcia, F. Lopez, P. Prins, S. Cardona, M. Colon, O. Giraldo).)
 * [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities](https://hgf18.sched.com/event/G8rr), (with A. Garcia, O. Giraldo, F. Lopez, C. Ruiz, S. Cardona)
 
@@ -31,7 +31,8 @@
 
 ## Visiting Positions, talks and conferences.
 
-* [Universidad del Rosario, August 2019.](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/A%20segmented%20and%20observable%20Yield%20Curve%20(2019)%20UR.pdf)
+* Red Arca, Universidad del Rosario, October 2019.
+* Universidad del Rosario, August 2019.
 * Banco de la Republica, July 2019.
 * [Third International Congress on Actuarial Science and Quantitative Finance, Manizales, June 2019 (Local Organizer and Scientific Committee)](http://icasqf2019.icasqf.org/).
 * Financial Management Association, FMA Global Conference, Bogota, May 2019 (discussant).
