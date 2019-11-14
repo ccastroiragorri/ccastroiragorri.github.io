@@ -17,7 +17,7 @@
 
 ## Works in progress
 
-* [A Segmented and observable yield curve (2019)](https://ideas.repec.org/p/col/000092/017582.html), with (J.F. Peña, C. Rodriguez). [Complementary material]()
+* [A Segmented and observable yield curve (2019)](https://ideas.repec.org/p/col/000092/017582.html), with (J.F. Peña, C. Rodriguez). [Complementary material](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/ComplementaryTablesAsegmentedandobservableYieldCurve(2019).pdf).
 * [A blockchain scholarly wallet for research assets](https://github.com/Blockchain4openscience), [Blockchain4openscience](http://blockchain4openscience.com/), (with A. Garcia, F. Lopez, P. Prins, S. Cardona, M. Colon, O. Giraldo).)
 * [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities](https://hgf18.sched.com/event/G8rr), (with A. Garcia, O. Giraldo, F. Lopez, C. Ruiz, S. Cardona)
 
