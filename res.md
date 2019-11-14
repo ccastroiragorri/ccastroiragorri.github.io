@@ -31,6 +31,7 @@
 
 ## Visiting Positions, talks and conferences.
 
+* [Scipy Latam, Universidad de los Andes, October, 2019](https://conf.scipyla.org/ponentes/carlos-castro/). 
 * Red Arca, Universidad del Rosario, October 2019.
 * Universidad del Rosario, August 2019.
 * Banco de la Republica, July 2019.
