@@ -4,7 +4,9 @@
 
 ## Refereed Journal Articles
 
-* [Measuring the effectiveness of volatility auctions](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/Measuring%20the%20effectiveness%20of%20volatility%20auctions%20(2019).pdf), R&R International Review of Economics & Finance (with D. Agudelo and S. Preciado).
+* [Measuring the effectiveness of volatility auctions (2020), Forthcoming: International Review of Economics & Finance (with D. Agudelo and S. Preciado).](https://doi.org/10.1016/j.iref.2020.06.024).
+* [Academic certification using blockchain: permissioned versus permissionless solutions (2020), Journal of the British Blockchain Association, July 2 (with O. Giraldo).](https://doi.org/10.31585/jbba-3-2-(7)2020)
+* [A Segmented and observable yield curve (2020), Forthcoming: Journal of Central Banking Theory and Practice (with J.F. Peña, C. Rodriguez)](https://content.sciendo.com/configurable/contentpage/journals$002fjcbtp$002fjcbtp-overview.xml?tab_body=overview). [Complementary material](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/ComplementaryTablesAsegmentedandobservableYieldCurve(2019).pdf).
 * [Does the market model provide a good counterfactual for event studies in finance? Financial Markets and Portfolio Management, March 2019, Volume 33, Issue 1, pp 71–91.](https://link.springer.com/article/10.1007/s11408-019-00325-4)
 * [Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12 (in Spanish)]( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.)
 * [Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia).](https://doi.org/10.1108/AFR-10-2013-0036 )
@@ -17,13 +19,12 @@
 
 ## Works in progress
 
-* [A Segmented and observable yield curve (2019)](https://ideas.repec.org/p/col/000092/017582.html), with (J.F. Peña, C. Rodriguez). [Complementary material](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/ComplementaryTablesAsegmentedandobservableYieldCurve(2019).pdf).
-* [A blockchain scholarly wallet for research assets](https://github.com/Blockchain4openscience), [Blockchain4openscience](http://blockchain4openscience.com/), (with A. Garcia, F. Lopez, P. Prins, S. Cardona, M. Colon, O. Giraldo).)
-* [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities](https://hgf18.sched.com/event/G8rr), (with A. Garcia, O. Giraldo, F. Lopez, C. Ruiz, S. Cardona)
+* [Empirical evidence of jump behaviour in the Colombian intraday bond market, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 245. pp. 24. (with N. Romero, S. Velez).](https://ideas.repec.org/p/col/000092/018098.html)
+* [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities (2018)](https://hgf18.sched.com/event/G8rr), (with A. Garcia, O. Giraldo, F. Lopez, C. Ruiz, S. Cardona)
 
 ## Publications in books and blogs.
 
-* [Tracking Biosamples in Hyperledger Blockchain. The Pistoia Alliance at Biohackathon Paris](https://www.pistoiaalliance.org/tracking-biosamples-in-hyperledger-blockchain-the-pistoia-alliance-at-biohackathon-paris-2018/), 2018 (with R. Shute).
+* [Experiencia y expectativas de las universidades colombianas con las tecnologías Blockchain (2019), in Blockchain en las Universidades,  Informe TIC 360º, Crue Universidades Españolas.](https://tic.crue.org/publicado-el-informe-blockchain/)
 * Measuring the systemic importance of financial institutions using market information, in Financial stability review, National Bank of Belgium, Junio 2010, pp. 127-141 (with S. Ferrari).
 * Uncertainty in asset correlation for portfolio credit risk: the shortcomings of the Basel II framework, Proceedings CREDIT Conference Credit Risk, Financial Crises, and the Macroeconomy, Vol. 2, Venecia, Italia, Septiembre 2009.
 * Eficiencia, competencia y márgenes de intermediación en El sector financiero de cara al siglo XXI, ANIF, Noviembre de 2002, Tomo 1, (with R. Steiner).
@@ -31,6 +32,7 @@
 
 ## Visiting Positions, talks and conferences.
 
+* [2nd Blockchain International Scientific Conference, Edinburgh, March 2020](https://jbba.scholasticahq.com/article/12587-conference-proceedings-of-2nd-blockchain-international-scientific-conference-isc2020)
 * [Scipy Latam, Universidad de los Andes, October, 2019](https://conf.scipyla.org/ponentes/carlos-castro/). 
 * Red Arca, Universidad del Rosario, October 2019.
 * Universidad del Rosario, August 2019.

@@ -18,7 +18,7 @@ collaborated with the Credit Portfolio Modeling department at Dexia sa, in Bruss
 
 ## Employment
 
-1. Founding director of the Master in Finance (2018), Master in Quantitative Finance (2012-2015); Member of the Doctoral School Board (2011-2015);  Assistant Professor(2010-2015); Universidad del Rosario, Bogota, Colombia.
+1. Associate Professor, Founding director of the Master in Finance (2018-2020), Master in Quantitative Finance (2012-2015); Member of the Doctoral School Board (2011-2015);  Assistant Professor(2010-2015); Universidad del Rosario, Bogota, Colombia.
 2. Research programme for young researchers (December 2009 - June 2010), Department of Financial Stability, National Bank of Belgium, Brussels, Belgium.
 3. Doctoral student consultant (2007-2009), Credit Portfolio Modeling department, Dexia sa,  Brussels, Belgium.
 4. Sub-Director (2004/2005), Advisor (2001/2003), Under Directorate of Sector Studies and Regulation, Directorate of Economic Studies, National Planning Department (DNP) Bogotá, Colombia.

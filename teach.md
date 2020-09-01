@@ -5,7 +5,7 @@
 ## Universidad del Rosario
 
 * Financial Economics (undergraduate), 2019-2020.
-* Predictive Modeling (graduate) 2019-2020.
+* Predictive Modeling (graduate) 2019-2021.
 * Blockchain applications (continuing education) 2018-2019.
 * Empirical Finance (graduate) 2017-2019.
 * Investments (undergraduate) 2017, 2019.
@@ -29,7 +29,11 @@
 * Intermediate Econometrics (undergraduate) 2001-2002.
 
 # Details of student supervision
-
+*	Santiago Rico (MSc in Economics, 2020): “Conditional dependence structure between oil prices
+and exchange rates in Latin America: A copula-GARCH approach”. Associate Product Manager at Wooga.
+*   Laura Jimena Moreno Duarte (MSc Quantitative Finance, 2020): “Credit Risk + applied to an insurance company”. Actuarial Risk at AXA Colpatria. 
+*   Felipe Grajales Fonnegra (MSc Quantitative Finance, 2019): “The effects of AirBnB on financial and local real estate markets”. Board Member at Ingenian Software. 
+*   Nicolas Romero Diaz (MSc Quantitative Finance, 2019): “Empirical evidence of jump behaviour in the Colombian intraday bond market”. Analyst ALM at AXA Colpatria. 
 *	Maykol Rodríguez (MSc in Economics, 2019): “Spectral graph theory in network formation: minimum eigenvalue” in Spanish. co-supervised with Tomas Rodríguez, Universidad de los Andes.
 *	Juan Felipe Peña (MSc Quantitative Finance, 2019): “A segmented Nelson and Siegel model for the term structure of interest rates”, Adv, Coordinator of advanced analytics at Experian (co-supervised with Cristhian Rodríguez, UC3).
 * Jean Carlos Torres (MSc Quantitative Finance, 2019): “Expectile as an alternative risk measure and applications on factor models”, in Spanish. Risk analyst at UALET.
