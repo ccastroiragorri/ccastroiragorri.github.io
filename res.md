@@ -33,7 +33,7 @@
 ## Visiting Positions, talks and conferences.
 
 * [Dimensionality Reduction and Inference in High-Dimensional Time Series
-Maastricht University, July 2021](https://sbe.maastrichtuniversity.nl/hdts2020/programme/),[poster](),[breakout session]().
+Maastricht University, July 2021](https://sbe.maastrichtuniversity.nl/hdts2020/programme/),[poster](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/Forecasting%20Dynamic%20Term%20Structure%20Models%20with%20Autoencoders%20(2021)%20Poster.pdf),[breakout session](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/Forecasting%20Dynamic%20Term%20Structure%20Models%20with%20Autoencoders%20(2021)%20breakout%20session.pdf).
 * [2nd Blockchain International Scientific Conference, Edinburgh, March 2020](https://jbba.scholasticahq.com/article/12587-conference-proceedings-of-2nd-blockchain-international-scientific-conference-isc2020)
 * [Scipy Latam, Universidad de los Andes, October, 2019](https://conf.scipyla.org/ponentes/carlos-castro/). 
 * Red Arca, Universidad del Rosario, October 2019.
