@@ -1,17 +1,17 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Digital Diplomas](Ddiploma.md)|[Blockchain4openscience](Block.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)
 
 # Outside Activities
 
 ## Professional Positions
 
-* [Cámara de Riesgo Central de Contraparte de Colombia, Board of Directors (2019-2021).](https://www.camaraderiesgo.com/)
+* [Cámara de Riesgo Central de Contraparte de Colombia, Board of Directors (2019-2022).](https://www.camaraderiesgo.com/)
 * [Precia S.A. Proveedor de Precios Para Valoración, independent member of the Valuation Committee (2019-2020).](https://preciappv.co/)
 * LINKINGDATA S.A.S, co-founder and general director.
 * [Sociedad Latinoamericana de Ciencias Actuariales y Finanzas Cuantitativas, Founding member and Board of Directors (2018-2020).](https://solacfin.org/)
 
 ## Editorial and other academic Activities
 
-* Google Summer of Code, Open Bioinformatics Foundation, Mentor 2019.
+* [Google Summer of Code, Open Bioinformatics Foundation, Mentor 2019.](https://obf.github.io/GSoC/ideas/#add-block-chains-and-hyperledger-support-for-the-journal-of-open-data-publications)
 * International Congress in Actuarial Science and Quantitative Finance 2019, Scientific committee.
 * Department of Economics, Universidad de la Salle, evaluator for Ministry of Education, 2018.
 * ICFES, external commissioner, 2016.

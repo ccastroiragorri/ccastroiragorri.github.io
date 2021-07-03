@@ -1,11 +1,11 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Digital Diplomas](Ddiploma.md)|[Blockchain4openscience](Block.md)   
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)
 
 # Teaching
 
 ## Universidad del Rosario
 
-* Financial Economics (undergraduate), 2019-2020.
-* Predictive Modeling (graduate) 2019-2021.
+* Financial Economics (undergraduate), 2019-2022.
+* Predictive Modeling (graduate) 2019-2022.
 * Blockchain applications (continuing education) 2018-2019.
 * Empirical Finance (graduate) 2017-2019.
 * Investments (undergraduate) 2017, 2019.

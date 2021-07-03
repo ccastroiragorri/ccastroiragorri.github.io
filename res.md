@@ -1,12 +1,12 @@
-[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)|[Digital Diplomas](Ddiploma.md)|[Blockchain4openscience](Block.md)    
+[Carlos Castro](index.md)|[Short Bio](cv.md)| [Research](res.md)|[Teaching](teach.md)|[Outside Activities](Outside.md)|[Finance](Fin.md)|[Jupyter Notebooks](Jup.md)
 
 # Research
 
 ## Refereed Journal Articles
 
-* [Measuring the effectiveness of volatility auctions (2020), Forthcoming: International Review of Economics & Finance (with D. Agudelo and S. Preciado).](https://doi.org/10.1016/j.iref.2020.06.024).
-* [Academic certification using blockchain: permissioned versus permissionless solutions (2020), Journal of the British Blockchain Association, July 2 (with O. Giraldo).](https://doi.org/10.31585/jbba-3-2-(7)2020)
-* [A Segmented and observable yield curve (2020), Forthcoming: Journal of Central Banking Theory and Practice (with J.F. Peña, C. Rodriguez)](https://content.sciendo.com/configurable/contentpage/journals$002fjcbtp$002fjcbtp-overview.xml?tab_body=overview). [Complementary material](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/ComplementaryTablesAsegmentedandobservableYieldCurve(2019).pdf).
+* [A Segmented and observable yield curve, Journal of Central Banking Theory and Practice, Volume 10(2), May 2021, pp 179-200  (with J.F. Peña, C. Rodriguez)](https://doi.org/10.2478/jcbtp-2021-0019). [Complementary material](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/ComplementaryTablesAsegmentedandobservableYieldCurve(2019).pdf).
+* [Measuring the effectiveness of volatility auctions, International Review of Economics & Finance, Volume 70, November 2020, pp 566-581 (with D. Agudelo and S. Preciado).](https://doi.org/10.1016/j.iref.2020.06.024).
+* [Academic certification using blockchain: permissioned versus permissionless solutions, Journal of the British Blockchain Association, July 2020 (with O. Giraldo).](https://doi.org/10.31585/jbba-3-2-(7)2020)
 * [Does the market model provide a good counterfactual for event studies in finance? Financial Markets and Portfolio Management, March 2019, Volume 33, Issue 1, pp 71–91.](https://link.springer.com/article/10.1007/s11408-019-00325-4)
 * [Quantitative management of financial risk in supplying a health plan, Revista Gerencia y Políticas en Salud, 2015: 14(28), pp 1-12 (in Spanish)]( http://dx.doi.org/10.11144/Javeriana.rgyps18-28.lacr.)
 * [Default risk in agricultural lending, the effects of commodity price volatility and climate, Agricultural Finance Review, 74 (4), October 2014, pp 501-521. (with K. Garcia).](https://doi.org/10.1108/AFR-10-2013-0036 )
@@ -32,6 +32,8 @@
 
 ## Visiting Positions, talks and conferences.
 
+* [Dimensionality Reduction and Inference in High-Dimensional Time Series
+Maastricht University, July 2021](https://sbe.maastrichtuniversity.nl/hdts2020/programme/),[poster](),[breakout session]().
 * [2nd Blockchain International Scientific Conference, Edinburgh, March 2020](https://jbba.scholasticahq.com/article/12587-conference-proceedings-of-2nd-blockchain-international-scientific-conference-isc2020)
 * [Scipy Latam, Universidad de los Andes, October, 2019](https://conf.scipyla.org/ponentes/carlos-castro/). 
 * Red Arca, Universidad del Rosario, October 2019.
