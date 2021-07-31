@@ -19,8 +19,9 @@
 
 ## Works in progress
 
+* [Financial intermediation and risk in decentralized lending protocols, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 270. pp. 34. (with J. Ramirez, S. Velez).](https://ideas.repec.org/p/col/000092/019420.html)
+* [Forecasting Dynamic Term Structure Models with Autoencoders, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 271. pp. 26. (with J. Ramirez).](https://repository.urosario.edu.co/handle/10336/31955)
 * [Empirical evidence of jump behaviour in the Colombian intraday bond market, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 245. pp. 24. (with N. Romero, S. Velez).](https://ideas.repec.org/p/col/000092/018098.html)
-* [Academic certificates on Hyperledger: Blockcert standard for Colombian Universities (2018)](https://hgf18.sched.com/event/G8rr), (with A. Garcia, O. Giraldo, F. Lopez, C. Ruiz, S. Cardona)
 
 ## Publications in books and blogs.
 
