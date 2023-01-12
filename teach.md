@@ -4,12 +4,12 @@
 
 ## Universidad del Rosario
 
-* Financial Economics (undergraduate), 2019-2022.
-* Predictive Modeling (graduate) 2019-2022.
+* Financial Economics (undergraduate), 2019-.
+* Predictive Modeling (graduate) 2019-.
 * Blockchain applications (continuing education) 2018-2019.
 * Empirical Finance (graduate) 2017-2019.
 * Investments (undergraduate) 2017, 2019.
-* Financial Forecasting and Simulation (graduate) 2017-2020.
+* Financial Forecasting and Simulation (graduate) 2017-2020,2022,2023.
 * Modeling the term structure of interest rates (graduate) 2016.
 * Quantitative Methods in Finance (undergraduate) 2016.
 * Quantitative Risk Management (graduate) 2013-2018.
@@ -29,6 +29,7 @@
 * Intermediate Econometrics (undergraduate) 2001-2002.
 
 # Details of student supervision
+* Julian Ramirez (MSc in Economics, 2022): “Permissioned blockchain in a supply chain problem”. Researcher: Pre-Doctoral Harvard Business School.
 *	Santiago Rico (MSc in Economics, 2020): “Conditional dependence structure between oil prices
 and exchange rates in Latin America: A copula-GARCH approach”. Associate Product Manager at Wooga.
 *   Laura Jimena Moreno Duarte (MSc Quantitative Finance, 2020): “Credit Risk + applied to an insurance company”. Actuarial Risk at AXA Colpatria. 
