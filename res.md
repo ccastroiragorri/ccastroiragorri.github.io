@@ -25,6 +25,7 @@
 
 ## Publications in books and blogs.
 
+* [Fintech desde la Academia (2022), en Universo Fintech. Editor Pedro Gaviria](https://universofintech.armatuvaca.com/)
 * [Experiencia y expectativas de las universidades colombianas con las tecnologías Blockchain (2019), in Blockchain en las Universidades,  Informe TIC 360º, Crue Universidades Españolas.](https://tic.crue.org/publicado-el-informe-blockchain/)
 * Measuring the systemic importance of financial institutions using market information, in Financial stability review, National Bank of Belgium, Junio 2010, pp. 127-141 (with S. Ferrari).
 * Uncertainty in asset correlation for portfolio credit risk: the shortcomings of the Basel II framework, Proceedings CREDIT Conference Credit Risk, Financial Crises, and the Macroeconomy, Vol. 2, Venecia, Italia, Septiembre 2009.
