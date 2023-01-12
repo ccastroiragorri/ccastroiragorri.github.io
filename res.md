@@ -25,7 +25,8 @@
 
 ## Publications in books and blogs.
 
-* [Fintech desde la Academia (2022), en Universo Fintech. Editor Pedro Gaviria](https://universofintech.armatuvaca.com/)
+* [Fintech desde la Academia (2022) in Universo Fintech. Editor Pedro Gaviria](https://universofintech.armatuvaca.com/)
+* [Blockchain para las empresas (2021) in Transformación digital en las organizaciones, Editorial Universidad del Rosario (with V. Gauthier and J. Ramirez)](https://editorial.urosario.edu.co/catalog/product/view/id/6982/s/gpd-transformacion-digital-en-las-organizaciones-9789587848342-6276a6efa4125/)
 * [Experiencia y expectativas de las universidades colombianas con las tecnologías Blockchain (2019), in Blockchain en las Universidades,  Informe TIC 360º, Crue Universidades Españolas.](https://tic.crue.org/publicado-el-informe-blockchain/)
 * Measuring the systemic importance of financial institutions using market information, in Financial stability review, National Bank of Belgium, Junio 2010, pp. 127-141 (with S. Ferrari).
 * Uncertainty in asset correlation for portfolio credit risk: the shortcomings of the Basel II framework, Proceedings CREDIT Conference Credit Risk, Financial Crises, and the Macroeconomy, Vol. 2, Venecia, Italia, Septiembre 2009.
@@ -33,7 +34,8 @@
 * Otra mirada al margen de intermediación financiera, Separata Especial, Portafolio-DNP, Septiembre 2001, (with N. Salazar).
 
 ## Visiting Positions, talks and conferences.
-
+* Workshop Finanzas, Universidad de los Andes, CESA, Universidad Javeriana, Universidad del Rosario, March 2022.
+*	Seminario CIEF, Universidad Eafit, February 2022.
 * [Dimensionality Reduction and Inference in High-Dimensional Time Series
 Maastricht University, July 2021](https://sbe.maastrichtuniversity.nl/hdts2020/programme/),[poster](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/Forecasting%20Dynamic%20Term%20Structure%20Models%20with%20Autoencoders%20(2021)%20Poster.pdf),[breakout session](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/Forecasting%20Dynamic%20Term%20Structure%20Models%20with%20Autoencoders%20(2021)%20breakout%20session.pdf).
 * [2nd Blockchain International Scientific Conference, Edinburgh, March 2020](https://jbba.scholasticahq.com/article/12587-conference-proceedings-of-2nd-blockchain-international-scientific-conference-isc2020)
