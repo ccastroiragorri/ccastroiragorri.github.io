@@ -32,8 +32,8 @@ collaborated with the Credit Portfolio Modeling department at Dexia sa, in Bruss
 
 # Grants and Awards
 
-1. [Leader of the team Linking Data, obtaind second place at Blockchain Challenge (Apps.co), Colombia 4.0, September, 2019](https://github.com/linkingdatasas/CERVER).   
+1. [Leader of the team Linking Data, obtaind second place at Blockchain Challenge (Apps.co), Colombia 4.0, September, 2019](https://github.com/linkingdatasas/CERVER).  
 2. Conference Grant Anne France Colombie, Institute Française, 2017, €15,000.
 3. Research Assistant grants, Colciencias, 2011 (1), 2015 (2).
-4. Research Fund (FIUR), Universidad del Rosario, 2011, 2013, COP 20´000,000
+4. Research Fund (FIUR), Universidad del Rosario, 2011, 2013 (COP 20´000,000); 2023 (COP 15´000,000).
 5. MAP-BID, Inter-American Development Bank, 2012-2013, €20,000
