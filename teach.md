@@ -29,6 +29,7 @@
 * Intermediate Econometrics (undergraduate) 2001-2002.
 
 # Details of student supervision
+*   Sebastián Vélez Hernández (MSc Quantitative Finance, 2023): “Forecasting volatility and risk using hybrid models”. Junior research and development analyst at Precia. 
 * Julian Ramirez (MSc in Economics, 2022): “Permissioned blockchain in a supply chain problem”. Researcher: Pre-Doctoral Harvard Business School.
 *	Santiago Rico (MSc in Economics, 2020): “Conditional dependence structure between oil prices
 and exchange rates in Latin America: A copula-GARCH approach”. Associate Product Manager at Wooga.
