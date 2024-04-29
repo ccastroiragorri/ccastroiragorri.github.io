@@ -9,7 +9,7 @@
 * Blockchain applications (continuing education) 2018-2019.
 * Empirical Finance (graduate) 2017-2019.
 * Investments (undergraduate) 2017, 2019.
-* Financial Forecasting and Simulation (graduate) 2017-2020,2022,2023.
+* Financial Forecasting and Simulation (graduate) 2017-2020,2022-.
 * Modeling the term structure of interest rates (graduate) 2016.
 * Quantitative Methods in Finance (undergraduate) 2016.
 * Quantitative Risk Management (graduate) 2013-2018.
