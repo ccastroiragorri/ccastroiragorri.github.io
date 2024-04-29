@@ -3,7 +3,8 @@
 # Research
 
 ## Refereed Journal Articles
-* [Empirical evidence of jump behaviour in the Colombian intraday bond market, forthcoming ODEON (with N. Romero, S. Velez).]()
+* [Worst-Case Higher Moment Risk Measure: Addressing Distributional Shifts and Procyclicality, forthcoming Financial Research Letters (with F. Goméz, N. Quiceno).]()
+* [Empirical evidence of jump behaviour in the Colombian intraday bond market, ODEON, 24, November 2023, pp 119-147  (with N. Romero, S. Velez).](https://doi.org/10.18601/17941113.n24.07)
 * [EPPO ontology: a semantic-driven approach for plant and pest codes representation, Frontiers in Artificial Intelligence, Sec. AI in Food, Agriculture and Water, Volume 6, June 2023 (with Ayllón-Benitez, A., Bernabé-Diaz, J.A. and others)](https://doi.org/10.3389/frai.2023.1131667)
 * [A Segmented and observable yield curve, Journal of Central Banking Theory and Practice, Volume 10(2), May 2021, pp 179-200  (with J.F. Peña, C. Rodriguez)](https://doi.org/10.2478/jcbtp-2021-0019). [Complementary material](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/ComplementaryTablesAsegmentedandobservableYieldCurve(2019).pdf).
 * [Measuring the effectiveness of volatility auctions, International Review of Economics & Finance, Volume 70, November 2020, pp 566-581 (with D. Agudelo and S. Preciado).](https://doi.org/10.1016/j.iref.2020.06.024).
@@ -19,6 +20,7 @@
 * [X-efficiency in Colombia’s Banking Industry, Desarrollo y Sociedad, September 2001, 48, pp. 1-52, (in Spanish)](https://economia.uniandes.edu.co/images/archivos/pdfs/Articulos_Revista_Desarrollo_y_Sociedad/Articulo48_4.pdf)
 
 ## Works in progress
+* [Worst-Case Higher Moment Risk Measure: Addressing Distributional Shifts and Procyclicality, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 316. pp. 15. (with F. Goméz, N. Quiceno).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4757293)
 * [Network Topology in Decentralized Finance, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 302. pp. 22. (with K. Saengchote).](https://ideas.repec.org/p/col/000092/020782.html)
 * [Financial intermediation and risk in decentralized lending protocols, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 270. pp. 34. (with J. Ramirez, S. Velez).](https://ideas.repec.org/p/col/000092/019420.html)
 * [Forecasting Dynamic Term Structure Models with Autoencoders, Documento de trabajo, Facultad de Economía, Universidad del Rosario. 271. pp. 26. (with J. Ramirez).](https://repository.urosario.edu.co/handle/10336/31955)
@@ -34,6 +36,7 @@
 * Otra mirada al margen de intermediación financiera, Separata Especial, Portafolio-DNP, Septiembre 2001, (with N. Salazar).
 
 ## Visiting Positions, talks and conferences.
+* Encuentro Colombo Mexicano de Finanzas Cuantiativas, Universidad de los Andes, Bogota, December 2023.
 * II Regional Conference on Payments and Financial Market Infrastructures, CEMLA, Bogota, September 2023.
 * Networks in Modern Financial and Payments Systems, Bank of Canada, Ottawa, June 2023.
 * Workshop Finanzas, Universidad de los Andes, CESA, Universidad Javeriana, Universidad del Rosario, March 2022.
