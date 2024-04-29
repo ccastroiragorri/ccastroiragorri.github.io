@@ -12,4 +12,4 @@ Personal email: ccastroiragorri@gmail.com
 
 Institutional email: carlos.castro@urosario.edu.co
 
-![Me](fotoCarlos.jpg)
+![Me](FotoCarlosCastroBW.jpg)
