@@ -3,7 +3,7 @@
 # Research
 
 ## Refereed Journal Articles
-* [Worst-Case Higher Moment Risk Measure: Addressing Distributional Shifts and Procyclicality, forthcoming Financial Research Letters (with F. Goméz, N. Quiceno).]()
+* [Worst-Case Higher Moment Risk Measure: Addressing Distributional Shifts and Procyclicality, forthcoming Financial Research Letters (with F. Goméz, N. Quiceno).](https://doi.org/10.1016/j.frl.2024.105580)
 * [Empirical evidence of jump behaviour in the Colombian intraday bond market, ODEON, 24, November 2023, pp 119-147  (with N. Romero, S. Velez).](https://doi.org/10.18601/17941113.n24.07)
 * [EPPO ontology: a semantic-driven approach for plant and pest codes representation, Frontiers in Artificial Intelligence, Sec. AI in Food, Agriculture and Water, Volume 6, June 2023 (with Ayllón-Benitez, A., Bernabé-Diaz, J.A. and others)](https://doi.org/10.3389/frai.2023.1131667)
 * [A Segmented and observable yield curve, Journal of Central Banking Theory and Practice, Volume 10(2), May 2021, pp 179-200  (with J.F. Peña, C. Rodriguez)](https://doi.org/10.2478/jcbtp-2021-0019). [Complementary material](https://github.com/ccastroiragorri/ccastroiragorri.github.io/blob/master/ComplementaryTablesAsegmentedandobservableYieldCurve(2019).pdf).
