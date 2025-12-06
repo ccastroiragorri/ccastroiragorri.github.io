@@ -4,12 +4,13 @@
 
 ## Universidad del Rosario
 
+* Asset Liability Management in Banking (graduate), 2026-.
 * Financial Economics (undergraduate), 2019-.
 * Predictive Modeling (graduate) 2019-.
 * Blockchain applications (continuing education) 2018-2019.
 * Empirical Finance (graduate) 2017-2019.
 * Investments (undergraduate) 2017, 2019.
-* Financial Forecasting and Simulation (graduate) 2017-2020,2022-.
+* Financial Forecasting and Simulation (graduate) 2017-2020,2022-2024.
 * Modeling the term structure of interest rates (graduate) 2016.
 * Quantitative Methods in Finance (undergraduate) 2016.
 * Quantitative Risk Management (graduate) 2013-2018.
